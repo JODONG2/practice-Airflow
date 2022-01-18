@@ -1,0 +1,665 @@
+[2022-01-18 19:30:53,358] {processor.py:163} INFO - Started process (PID=91491) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 19:30:53,359] {processor.py:620} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 19:30:53,359] {logging_mixin.py:109} INFO - [2022-01-18 19:30:53,359] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 19:30:53,391] {processor.py:632} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 19:30:53,401] {logging_mixin.py:109} INFO - [2022-01-18 19:30:53,401] {dag.py:2389} INFO - Sync 1 DAGs
+[2022-01-18 19:30:53,406] {logging_mixin.py:109} INFO - [2022-01-18 19:30:53,406] {dag.py:2914} INFO - Setting next_dagrun for hello_world to 2022-01-16 06:00:00+00:00
+[2022-01-18 19:30:53,410] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.053 seconds
+[2022-01-18 21:15:12,669] {processor.py:163} INFO - Started process (PID=91853) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:15:12,670] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:15:12,671] {logging_mixin.py:109} INFO - [2022-01-18 21:15:12,671] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:15:12,700] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:15:12,710] {logging_mixin.py:109} INFO - [2022-01-18 21:15:12,710] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:15:12,716] {logging_mixin.py:109} INFO - [2022-01-18 21:15:12,716] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-16 06:00:00+00:00
+[2022-01-18 21:15:12,720] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.051 seconds
+[2022-01-18 21:16:18,450] {processor.py:163} INFO - Started process (PID=91949) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:16:18,451] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:16:18,452] {logging_mixin.py:109} INFO - [2022-01-18 21:16:18,451] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:16:18,474] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:16:18,483] {logging_mixin.py:109} INFO - [2022-01-18 21:16:18,483] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:16:18,487] {logging_mixin.py:109} INFO - [2022-01-18 21:16:18,487] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-16 06:00:00+00:00
+[2022-01-18 21:16:18,491] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 21:17:42,648] {processor.py:163} INFO - Started process (PID=92048) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:17:42,649] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:17:42,649] {logging_mixin.py:109} INFO - [2022-01-18 21:17:42,649] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:17:42,674] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:17:42,683] {logging_mixin.py:109} INFO - [2022-01-18 21:17:42,683] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:17:42,688] {logging_mixin.py:109} INFO - [2022-01-18 21:17:42,688] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:17:42,692] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.044 seconds
+[2022-01-18 21:19:11,928] {processor.py:163} INFO - Started process (PID=92164) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:19:11,929] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:19:11,929] {logging_mixin.py:109} INFO - [2022-01-18 21:19:11,929] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:19:11,953] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:19:11,961] {logging_mixin.py:109} INFO - [2022-01-18 21:19:11,961] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:19:11,966] {logging_mixin.py:109} INFO - [2022-01-18 21:19:11,966] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:19:11,970] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:20:15,399] {processor.py:163} INFO - Started process (PID=92236) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:20:15,400] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:20:15,400] {logging_mixin.py:109} INFO - [2022-01-18 21:20:15,400] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:20:15,427] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:20:15,436] {logging_mixin.py:109} INFO - [2022-01-18 21:20:15,436] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:20:15,441] {logging_mixin.py:109} INFO - [2022-01-18 21:20:15,441] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:20:15,445] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.046 seconds
+[2022-01-18 21:21:18,688] {processor.py:163} INFO - Started process (PID=92292) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:21:18,690] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:21:18,690] {logging_mixin.py:109} INFO - [2022-01-18 21:21:18,690] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:21:18,713] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:21:18,724] {logging_mixin.py:109} INFO - [2022-01-18 21:21:18,723] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:21:18,729] {logging_mixin.py:109} INFO - [2022-01-18 21:21:18,729] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:21:18,732] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.044 seconds
+[2022-01-18 21:22:22,310] {processor.py:163} INFO - Started process (PID=92358) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:22:22,310] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:22:22,310] {logging_mixin.py:109} INFO - [2022-01-18 21:22:22,310] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:22:22,337] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:22:22,346] {logging_mixin.py:109} INFO - [2022-01-18 21:22:22,346] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:22:22,352] {logging_mixin.py:109} INFO - [2022-01-18 21:22:22,351] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:22:22,355] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.046 seconds
+[2022-01-18 21:23:26,219] {processor.py:163} INFO - Started process (PID=92423) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:23:26,220] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:23:26,220] {logging_mixin.py:109} INFO - [2022-01-18 21:23:26,220] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:23:26,245] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:23:26,254] {logging_mixin.py:109} INFO - [2022-01-18 21:23:26,254] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:23:26,259] {logging_mixin.py:109} INFO - [2022-01-18 21:23:26,259] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:23:26,262] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 21:24:30,050] {processor.py:163} INFO - Started process (PID=92485) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:24:30,052] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:24:30,052] {logging_mixin.py:109} INFO - [2022-01-18 21:24:30,052] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:24:30,075] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:24:30,084] {logging_mixin.py:109} INFO - [2022-01-18 21:24:30,084] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:24:30,089] {logging_mixin.py:109} INFO - [2022-01-18 21:24:30,089] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:24:30,092] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:25:33,435] {processor.py:163} INFO - Started process (PID=92541) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:25:33,436] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:25:33,436] {logging_mixin.py:109} INFO - [2022-01-18 21:25:33,436] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:25:33,460] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:25:33,469] {logging_mixin.py:109} INFO - [2022-01-18 21:25:33,469] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:25:33,474] {logging_mixin.py:109} INFO - [2022-01-18 21:25:33,474] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:25:33,477] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:26:37,252] {processor.py:163} INFO - Started process (PID=92610) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:26:37,253] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:26:37,254] {logging_mixin.py:109} INFO - [2022-01-18 21:26:37,254] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:26:37,277] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:26:37,286] {logging_mixin.py:109} INFO - [2022-01-18 21:26:37,286] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:26:37,291] {logging_mixin.py:109} INFO - [2022-01-18 21:26:37,291] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:26:37,295] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:27:40,651] {processor.py:163} INFO - Started process (PID=92664) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:27:40,652] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:27:40,652] {logging_mixin.py:109} INFO - [2022-01-18 21:27:40,652] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:27:40,676] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:27:40,685] {logging_mixin.py:109} INFO - [2022-01-18 21:27:40,685] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:27:40,690] {logging_mixin.py:109} INFO - [2022-01-18 21:27:40,690] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:27:40,694] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 21:28:43,976] {processor.py:163} INFO - Started process (PID=92718) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:28:43,978] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:28:43,978] {logging_mixin.py:109} INFO - [2022-01-18 21:28:43,978] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:28:44,002] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:28:44,010] {logging_mixin.py:109} INFO - [2022-01-18 21:28:44,010] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:28:44,015] {logging_mixin.py:109} INFO - [2022-01-18 21:28:44,015] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:28:44,019] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 21:29:47,447] {processor.py:163} INFO - Started process (PID=92774) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:29:47,448] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:29:47,449] {logging_mixin.py:109} INFO - [2022-01-18 21:29:47,449] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:29:47,483] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:29:47,492] {logging_mixin.py:109} INFO - [2022-01-18 21:29:47,492] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:29:47,497] {logging_mixin.py:109} INFO - [2022-01-18 21:29:47,497] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:29:47,501] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.054 seconds
+[2022-01-18 21:30:50,450] {processor.py:163} INFO - Started process (PID=92845) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:30:50,452] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:30:50,452] {logging_mixin.py:109} INFO - [2022-01-18 21:30:50,452] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:30:50,475] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:30:50,484] {logging_mixin.py:109} INFO - [2022-01-18 21:30:50,484] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:30:50,489] {logging_mixin.py:109} INFO - [2022-01-18 21:30:50,489] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:30:50,494] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.044 seconds
+[2022-01-18 21:31:55,007] {processor.py:163} INFO - Started process (PID=92908) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:31:55,008] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:31:55,009] {logging_mixin.py:109} INFO - [2022-01-18 21:31:55,008] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:31:55,032] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:31:55,040] {logging_mixin.py:109} INFO - [2022-01-18 21:31:55,040] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:31:55,046] {logging_mixin.py:109} INFO - [2022-01-18 21:31:55,046] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:31:55,049] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:32:58,302] {processor.py:163} INFO - Started process (PID=92972) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:32:58,303] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:32:58,303] {logging_mixin.py:109} INFO - [2022-01-18 21:32:58,303] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:32:58,327] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:32:58,336] {logging_mixin.py:109} INFO - [2022-01-18 21:32:58,336] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:32:58,341] {logging_mixin.py:109} INFO - [2022-01-18 21:32:58,341] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:32:58,345] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 21:34:02,549] {processor.py:163} INFO - Started process (PID=93050) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:34:02,550] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:34:02,550] {logging_mixin.py:109} INFO - [2022-01-18 21:34:02,550] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:34:02,574] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:34:02,583] {logging_mixin.py:109} INFO - [2022-01-18 21:34:02,583] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:34:02,588] {logging_mixin.py:109} INFO - [2022-01-18 21:34:02,588] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:34:02,592] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.044 seconds
+[2022-01-18 21:35:05,976] {processor.py:163} INFO - Started process (PID=93102) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:35:05,977] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:35:05,977] {logging_mixin.py:109} INFO - [2022-01-18 21:35:05,977] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:35:06,001] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:35:06,010] {logging_mixin.py:109} INFO - [2022-01-18 21:35:06,010] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:35:06,015] {logging_mixin.py:109} INFO - [2022-01-18 21:35:06,015] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:35:06,019] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 21:36:09,998] {processor.py:163} INFO - Started process (PID=93168) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:36:09,999] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:36:10,000] {logging_mixin.py:109} INFO - [2022-01-18 21:36:09,999] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:36:10,026] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:36:10,035] {logging_mixin.py:109} INFO - [2022-01-18 21:36:10,035] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:36:10,040] {logging_mixin.py:109} INFO - [2022-01-18 21:36:10,040] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:36:10,044] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.047 seconds
+[2022-01-18 21:37:13,806] {processor.py:163} INFO - Started process (PID=93227) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:37:13,806] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:37:13,806] {logging_mixin.py:109} INFO - [2022-01-18 21:37:13,806] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:37:13,830] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:37:13,838] {logging_mixin.py:109} INFO - [2022-01-18 21:37:13,838] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:37:13,843] {logging_mixin.py:109} INFO - [2022-01-18 21:37:13,843] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:37:13,847] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:38:17,232] {processor.py:163} INFO - Started process (PID=93279) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:38:17,233] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:38:17,233] {logging_mixin.py:109} INFO - [2022-01-18 21:38:17,233] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:38:17,259] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:38:17,268] {logging_mixin.py:109} INFO - [2022-01-18 21:38:17,268] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:38:17,273] {logging_mixin.py:109} INFO - [2022-01-18 21:38:17,273] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:38:17,277] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.045 seconds
+[2022-01-18 21:39:20,730] {processor.py:163} INFO - Started process (PID=93336) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:39:20,731] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:39:20,731] {logging_mixin.py:109} INFO - [2022-01-18 21:39:20,731] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:39:20,755] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:39:20,764] {logging_mixin.py:109} INFO - [2022-01-18 21:39:20,764] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:39:20,769] {logging_mixin.py:109} INFO - [2022-01-18 21:39:20,769] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:39:20,772] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 21:40:23,773] {processor.py:163} INFO - Started process (PID=93390) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:40:23,773] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:40:23,773] {logging_mixin.py:109} INFO - [2022-01-18 21:40:23,773] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:40:23,797] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:40:23,806] {logging_mixin.py:109} INFO - [2022-01-18 21:40:23,806] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:40:23,811] {logging_mixin.py:109} INFO - [2022-01-18 21:40:23,811] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:40:23,815] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:41:26,729] {processor.py:163} INFO - Started process (PID=93447) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:41:26,730] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:41:26,730] {logging_mixin.py:109} INFO - [2022-01-18 21:41:26,730] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:41:26,753] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:41:26,762] {logging_mixin.py:109} INFO - [2022-01-18 21:41:26,762] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:41:26,767] {logging_mixin.py:109} INFO - [2022-01-18 21:41:26,767] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:41:26,771] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:42:30,922] {processor.py:163} INFO - Started process (PID=93501) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:42:30,922] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:42:30,922] {logging_mixin.py:109} INFO - [2022-01-18 21:42:30,922] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:42:30,946] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:42:30,955] {logging_mixin.py:109} INFO - [2022-01-18 21:42:30,955] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:42:30,960] {logging_mixin.py:109} INFO - [2022-01-18 21:42:30,960] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:42:30,964] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:43:34,390] {processor.py:163} INFO - Started process (PID=93564) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:43:34,391] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:43:34,391] {logging_mixin.py:109} INFO - [2022-01-18 21:43:34,391] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:43:34,414] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:43:34,423] {logging_mixin.py:109} INFO - [2022-01-18 21:43:34,423] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:43:34,429] {logging_mixin.py:109} INFO - [2022-01-18 21:43:34,428] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:43:34,432] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:44:37,317] {processor.py:163} INFO - Started process (PID=93622) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:44:37,317] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:44:37,318] {logging_mixin.py:109} INFO - [2022-01-18 21:44:37,318] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:44:37,341] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:44:37,349] {logging_mixin.py:109} INFO - [2022-01-18 21:44:37,349] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:44:37,354] {logging_mixin.py:109} INFO - [2022-01-18 21:44:37,354] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:44:37,357] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 21:45:40,354] {processor.py:163} INFO - Started process (PID=93679) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:45:40,355] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:45:40,355] {logging_mixin.py:109} INFO - [2022-01-18 21:45:40,355] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:45:40,380] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:45:40,391] {logging_mixin.py:109} INFO - [2022-01-18 21:45:40,391] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:45:40,397] {logging_mixin.py:109} INFO - [2022-01-18 21:45:40,397] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:45:40,400] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.047 seconds
+[2022-01-18 21:46:43,265] {processor.py:163} INFO - Started process (PID=93733) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:46:43,266] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:46:43,266] {logging_mixin.py:109} INFO - [2022-01-18 21:46:43,266] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:46:43,289] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:46:43,298] {logging_mixin.py:109} INFO - [2022-01-18 21:46:43,298] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:46:43,303] {logging_mixin.py:109} INFO - [2022-01-18 21:46:43,303] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:46:43,306] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:47:46,179] {processor.py:163} INFO - Started process (PID=93786) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:47:46,180] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:47:46,180] {logging_mixin.py:109} INFO - [2022-01-18 21:47:46,180] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:47:46,204] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:47:46,213] {logging_mixin.py:109} INFO - [2022-01-18 21:47:46,213] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:47:46,218] {logging_mixin.py:109} INFO - [2022-01-18 21:47:46,218] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:47:46,222] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 21:48:49,431] {processor.py:163} INFO - Started process (PID=93839) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:48:49,432] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:48:49,432] {logging_mixin.py:109} INFO - [2022-01-18 21:48:49,432] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:48:49,456] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:48:49,465] {logging_mixin.py:109} INFO - [2022-01-18 21:48:49,465] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:48:49,470] {logging_mixin.py:109} INFO - [2022-01-18 21:48:49,470] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:48:49,473] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 21:49:52,334] {processor.py:163} INFO - Started process (PID=93892) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:49:52,335] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:49:52,335] {logging_mixin.py:109} INFO - [2022-01-18 21:49:52,335] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:49:52,358] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:49:52,367] {logging_mixin.py:109} INFO - [2022-01-18 21:49:52,367] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:49:52,372] {logging_mixin.py:109} INFO - [2022-01-18 21:49:52,372] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:49:52,376] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:50:51,613] {processor.py:163} INFO - Started process (PID=93947) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:50:51,614] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:50:51,614] {logging_mixin.py:109} INFO - [2022-01-18 21:50:51,614] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:50:51,638] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:50:51,647] {logging_mixin.py:109} INFO - [2022-01-18 21:50:51,647] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:50:51,652] {logging_mixin.py:109} INFO - [2022-01-18 21:50:51,652] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:50:51,655] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:51:52,067] {processor.py:163} INFO - Started process (PID=94001) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:51:52,068] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:51:52,068] {logging_mixin.py:109} INFO - [2022-01-18 21:51:52,068] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:51:52,092] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:51:52,100] {logging_mixin.py:109} INFO - [2022-01-18 21:51:52,100] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:51:52,106] {logging_mixin.py:109} INFO - [2022-01-18 21:51:52,106] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:51:52,109] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:52:52,506] {processor.py:163} INFO - Started process (PID=94053) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:52:52,506] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:52:52,507] {logging_mixin.py:109} INFO - [2022-01-18 21:52:52,507] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:52:52,530] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:52:52,538] {logging_mixin.py:109} INFO - [2022-01-18 21:52:52,538] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:52:52,543] {logging_mixin.py:109} INFO - [2022-01-18 21:52:52,543] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:52:52,547] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 21:53:52,989] {processor.py:163} INFO - Started process (PID=94110) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:53:52,990] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:53:52,991] {logging_mixin.py:109} INFO - [2022-01-18 21:53:52,991] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:53:53,014] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:53:53,022] {logging_mixin.py:109} INFO - [2022-01-18 21:53:53,022] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:53:53,027] {logging_mixin.py:109} INFO - [2022-01-18 21:53:53,027] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:53:53,031] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:54:53,564] {processor.py:163} INFO - Started process (PID=94162) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:54:53,565] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:54:53,565] {logging_mixin.py:109} INFO - [2022-01-18 21:54:53,565] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:54:53,590] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:54:53,600] {logging_mixin.py:109} INFO - [2022-01-18 21:54:53,600] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:54:53,606] {logging_mixin.py:109} INFO - [2022-01-18 21:54:53,606] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:54:53,610] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.046 seconds
+[2022-01-18 21:55:56,297] {processor.py:163} INFO - Started process (PID=94219) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:55:56,298] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:55:56,298] {logging_mixin.py:109} INFO - [2022-01-18 21:55:56,298] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:55:56,321] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:55:56,330] {logging_mixin.py:109} INFO - [2022-01-18 21:55:56,330] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:55:56,335] {logging_mixin.py:109} INFO - [2022-01-18 21:55:56,335] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:55:56,338] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 21:56:56,720] {processor.py:163} INFO - Started process (PID=94270) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:56:56,720] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:56:56,720] {logging_mixin.py:109} INFO - [2022-01-18 21:56:56,720] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:56:56,743] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:56:56,752] {logging_mixin.py:109} INFO - [2022-01-18 21:56:56,752] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:56:56,756] {logging_mixin.py:109} INFO - [2022-01-18 21:56:56,756] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:56:56,761] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 21:57:59,489] {processor.py:163} INFO - Started process (PID=94324) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:57:59,491] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:57:59,491] {logging_mixin.py:109} INFO - [2022-01-18 21:57:59,491] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:57:59,513] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:57:59,522] {logging_mixin.py:109} INFO - [2022-01-18 21:57:59,522] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:57:59,527] {logging_mixin.py:109} INFO - [2022-01-18 21:57:59,527] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:57:59,531] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 21:58:59,944] {processor.py:163} INFO - Started process (PID=94376) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:58:59,944] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 21:58:59,944] {logging_mixin.py:109} INFO - [2022-01-18 21:58:59,944] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:58:59,969] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 21:58:59,979] {logging_mixin.py:109} INFO - [2022-01-18 21:58:59,979] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 21:58:59,984] {logging_mixin.py:109} INFO - [2022-01-18 21:58:59,984] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 21:58:59,988] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.045 seconds
+[2022-01-18 22:00:05,341] {processor.py:163} INFO - Started process (PID=94450) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:00:05,342] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:00:05,343] {logging_mixin.py:109} INFO - [2022-01-18 22:00:05,343] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:00:05,366] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:00:05,375] {logging_mixin.py:109} INFO - [2022-01-18 22:00:05,375] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:00:05,380] {logging_mixin.py:109} INFO - [2022-01-18 22:00:05,380] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:00:05,383] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:01:05,858] {processor.py:163} INFO - Started process (PID=94504) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:01:05,859] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:01:05,860] {logging_mixin.py:109} INFO - [2022-01-18 22:01:05,860] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:01:05,889] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:01:05,900] {logging_mixin.py:109} INFO - [2022-01-18 22:01:05,900] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:01:05,905] {logging_mixin.py:109} INFO - [2022-01-18 22:01:05,905] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:01:05,909] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.052 seconds
+[2022-01-18 22:02:09,223] {processor.py:163} INFO - Started process (PID=94558) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:02:09,224] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:02:09,225] {logging_mixin.py:109} INFO - [2022-01-18 22:02:09,225] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:02:09,250] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:02:09,261] {logging_mixin.py:109} INFO - [2022-01-18 22:02:09,261] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:02:09,266] {logging_mixin.py:109} INFO - [2022-01-18 22:02:09,266] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:02:09,270] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.047 seconds
+[2022-01-18 22:03:11,893] {processor.py:163} INFO - Started process (PID=94611) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:03:11,894] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:03:11,894] {logging_mixin.py:109} INFO - [2022-01-18 22:03:11,894] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:03:11,917] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:03:11,926] {logging_mixin.py:109} INFO - [2022-01-18 22:03:11,926] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:03:11,931] {logging_mixin.py:109} INFO - [2022-01-18 22:03:11,931] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:03:11,934] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 22:04:15,513] {processor.py:163} INFO - Started process (PID=94678) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:04:15,514] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:04:15,514] {logging_mixin.py:109} INFO - [2022-01-18 22:04:15,514] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:04:15,537] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:04:15,546] {logging_mixin.py:109} INFO - [2022-01-18 22:04:15,546] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:04:15,551] {logging_mixin.py:109} INFO - [2022-01-18 22:04:15,551] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:04:15,555] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:05:18,579] {processor.py:163} INFO - Started process (PID=94734) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:05:18,580] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:05:18,580] {logging_mixin.py:109} INFO - [2022-01-18 22:05:18,580] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:05:18,604] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:05:18,613] {logging_mixin.py:109} INFO - [2022-01-18 22:05:18,613] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:05:18,618] {logging_mixin.py:109} INFO - [2022-01-18 22:05:18,618] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:05:18,621] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:06:20,238] {processor.py:163} INFO - Started process (PID=94787) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:06:20,239] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:06:20,239] {logging_mixin.py:109} INFO - [2022-01-18 22:06:20,239] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:06:20,262] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:06:20,271] {logging_mixin.py:109} INFO - [2022-01-18 22:06:20,271] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:06:20,276] {logging_mixin.py:109} INFO - [2022-01-18 22:06:20,276] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:06:20,279] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:07:23,094] {processor.py:163} INFO - Started process (PID=94841) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:07:23,094] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:07:23,095] {logging_mixin.py:109} INFO - [2022-01-18 22:07:23,095] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:07:23,118] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:07:23,127] {logging_mixin.py:109} INFO - [2022-01-18 22:07:23,127] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:07:23,132] {logging_mixin.py:109} INFO - [2022-01-18 22:07:23,132] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:07:23,135] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:08:26,196] {processor.py:163} INFO - Started process (PID=94893) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:08:26,197] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:08:26,197] {logging_mixin.py:109} INFO - [2022-01-18 22:08:26,197] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:08:26,221] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:08:26,229] {logging_mixin.py:109} INFO - [2022-01-18 22:08:26,229] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:08:26,234] {logging_mixin.py:109} INFO - [2022-01-18 22:08:26,234] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:08:26,237] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:09:29,107] {processor.py:163} INFO - Started process (PID=94948) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:09:29,108] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:09:29,108] {logging_mixin.py:109} INFO - [2022-01-18 22:09:29,108] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:09:29,132] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:09:29,142] {logging_mixin.py:109} INFO - [2022-01-18 22:09:29,141] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:09:29,146] {logging_mixin.py:109} INFO - [2022-01-18 22:09:29,146] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:09:29,150] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 22:10:31,827] {processor.py:163} INFO - Started process (PID=95002) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:10:31,828] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:10:31,828] {logging_mixin.py:109} INFO - [2022-01-18 22:10:31,828] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:10:31,851] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:10:31,860] {logging_mixin.py:109} INFO - [2022-01-18 22:10:31,860] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:10:31,865] {logging_mixin.py:109} INFO - [2022-01-18 22:10:31,865] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:10:31,868] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 22:11:34,891] {processor.py:163} INFO - Started process (PID=95057) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:11:34,892] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:11:34,893] {logging_mixin.py:109} INFO - [2022-01-18 22:11:34,893] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:11:34,916] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:11:34,925] {logging_mixin.py:109} INFO - [2022-01-18 22:11:34,925] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:11:34,930] {logging_mixin.py:109} INFO - [2022-01-18 22:11:34,930] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:11:34,934] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 22:12:35,427] {processor.py:163} INFO - Started process (PID=95114) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:12:35,428] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:12:35,428] {logging_mixin.py:109} INFO - [2022-01-18 22:12:35,428] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:12:35,451] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:12:35,460] {logging_mixin.py:109} INFO - [2022-01-18 22:12:35,460] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:12:35,465] {logging_mixin.py:109} INFO - [2022-01-18 22:12:35,464] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:12:35,468] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 22:13:39,157] {processor.py:163} INFO - Started process (PID=95173) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:13:39,159] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:13:39,159] {logging_mixin.py:109} INFO - [2022-01-18 22:13:39,159] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:13:39,186] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:13:39,195] {logging_mixin.py:109} INFO - [2022-01-18 22:13:39,195] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:13:39,200] {logging_mixin.py:109} INFO - [2022-01-18 22:13:39,200] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:13:39,203] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.047 seconds
+[2022-01-18 22:14:42,606] {processor.py:163} INFO - Started process (PID=95228) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:14:42,607] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:14:42,607] {logging_mixin.py:109} INFO - [2022-01-18 22:14:42,607] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:14:42,631] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:14:42,640] {logging_mixin.py:109} INFO - [2022-01-18 22:14:42,640] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:14:42,645] {logging_mixin.py:109} INFO - [2022-01-18 22:14:42,645] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:14:42,648] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:15:46,061] {processor.py:163} INFO - Started process (PID=95284) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:15:46,062] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:15:46,062] {logging_mixin.py:109} INFO - [2022-01-18 22:15:46,062] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:15:46,087] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:15:46,098] {logging_mixin.py:109} INFO - [2022-01-18 22:15:46,097] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:15:46,103] {logging_mixin.py:109} INFO - [2022-01-18 22:15:46,103] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:15:46,106] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.046 seconds
+[2022-01-18 22:16:49,596] {processor.py:163} INFO - Started process (PID=95340) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:16:49,597] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:16:49,598] {logging_mixin.py:109} INFO - [2022-01-18 22:16:49,597] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:16:49,624] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:16:49,634] {logging_mixin.py:109} INFO - [2022-01-18 22:16:49,634] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:16:49,639] {logging_mixin.py:109} INFO - [2022-01-18 22:16:49,639] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:16:49,643] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.047 seconds
+[2022-01-18 22:17:53,300] {processor.py:163} INFO - Started process (PID=95393) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:17:53,301] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:17:53,301] {logging_mixin.py:109} INFO - [2022-01-18 22:17:53,301] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:17:53,324] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:17:53,333] {logging_mixin.py:109} INFO - [2022-01-18 22:17:53,333] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:17:53,338] {logging_mixin.py:109} INFO - [2022-01-18 22:17:53,338] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:17:53,342] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:18:57,151] {processor.py:163} INFO - Started process (PID=95464) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:18:57,151] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:18:57,152] {logging_mixin.py:109} INFO - [2022-01-18 22:18:57,152] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:18:57,181] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:18:57,191] {logging_mixin.py:109} INFO - [2022-01-18 22:18:57,191] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:18:57,196] {logging_mixin.py:109} INFO - [2022-01-18 22:18:57,196] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:18:57,200] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.049 seconds
+[2022-01-18 22:20:00,278] {processor.py:163} INFO - Started process (PID=95519) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:20:00,279] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:20:00,279] {logging_mixin.py:109} INFO - [2022-01-18 22:20:00,279] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:20:00,302] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:20:00,312] {logging_mixin.py:109} INFO - [2022-01-18 22:20:00,311] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:20:00,317] {logging_mixin.py:109} INFO - [2022-01-18 22:20:00,317] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:20:00,320] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:21:03,226] {processor.py:163} INFO - Started process (PID=95581) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:21:03,227] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:21:03,227] {logging_mixin.py:109} INFO - [2022-01-18 22:21:03,227] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:21:03,250] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:21:03,259] {logging_mixin.py:109} INFO - [2022-01-18 22:21:03,259] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:21:03,264] {logging_mixin.py:109} INFO - [2022-01-18 22:21:03,264] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:21:03,268] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:22:06,478] {processor.py:163} INFO - Started process (PID=95639) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:22:06,479] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:22:06,479] {logging_mixin.py:109} INFO - [2022-01-18 22:22:06,479] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:22:06,502] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:22:06,511] {logging_mixin.py:109} INFO - [2022-01-18 22:22:06,511] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:22:06,516] {logging_mixin.py:109} INFO - [2022-01-18 22:22:06,516] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:22:06,519] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:23:07,285] {processor.py:163} INFO - Started process (PID=95691) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:23:07,286] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:23:07,286] {logging_mixin.py:109} INFO - [2022-01-18 22:23:07,286] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:23:07,309] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:23:07,317] {logging_mixin.py:109} INFO - [2022-01-18 22:23:07,317] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:23:07,322] {logging_mixin.py:109} INFO - [2022-01-18 22:23:07,322] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:23:07,325] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 22:24:10,344] {processor.py:163} INFO - Started process (PID=95747) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:24:10,345] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:24:10,345] {logging_mixin.py:109} INFO - [2022-01-18 22:24:10,345] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:24:10,368] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:24:10,377] {logging_mixin.py:109} INFO - [2022-01-18 22:24:10,377] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:24:10,382] {logging_mixin.py:109} INFO - [2022-01-18 22:24:10,382] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:24:10,385] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:25:14,225] {processor.py:163} INFO - Started process (PID=95803) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:25:14,226] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:25:14,226] {logging_mixin.py:109} INFO - [2022-01-18 22:25:14,226] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:25:14,249] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:25:14,259] {logging_mixin.py:109} INFO - [2022-01-18 22:25:14,258] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:25:14,263] {logging_mixin.py:109} INFO - [2022-01-18 22:25:14,263] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:25:14,267] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:26:17,442] {processor.py:163} INFO - Started process (PID=95860) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:26:17,443] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:26:17,443] {logging_mixin.py:109} INFO - [2022-01-18 22:26:17,443] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:26:17,467] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:26:17,476] {logging_mixin.py:109} INFO - [2022-01-18 22:26:17,476] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:26:17,481] {logging_mixin.py:109} INFO - [2022-01-18 22:26:17,481] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:26:17,485] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 22:27:20,611] {processor.py:163} INFO - Started process (PID=95917) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:27:20,613] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:27:20,613] {logging_mixin.py:109} INFO - [2022-01-18 22:27:20,613] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:27:20,636] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:27:20,645] {logging_mixin.py:109} INFO - [2022-01-18 22:27:20,645] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:27:20,650] {logging_mixin.py:109} INFO - [2022-01-18 22:27:20,650] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:27:20,653] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:28:23,509] {processor.py:163} INFO - Started process (PID=95969) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:28:23,509] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:28:23,509] {logging_mixin.py:109} INFO - [2022-01-18 22:28:23,509] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:28:23,532] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:28:23,541] {logging_mixin.py:109} INFO - [2022-01-18 22:28:23,541] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:28:23,547] {logging_mixin.py:109} INFO - [2022-01-18 22:28:23,547] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:28:23,551] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 22:29:26,887] {processor.py:163} INFO - Started process (PID=96025) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:29:26,888] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:29:26,889] {logging_mixin.py:109} INFO - [2022-01-18 22:29:26,889] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:29:26,912] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:29:26,921] {logging_mixin.py:109} INFO - [2022-01-18 22:29:26,920] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:29:26,926] {logging_mixin.py:109} INFO - [2022-01-18 22:29:26,925] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:29:26,929] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:30:30,177] {processor.py:163} INFO - Started process (PID=96082) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:30:30,178] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:30:30,178] {logging_mixin.py:109} INFO - [2022-01-18 22:30:30,178] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:30:30,201] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:30:30,210] {logging_mixin.py:109} INFO - [2022-01-18 22:30:30,210] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:30:30,215] {logging_mixin.py:109} INFO - [2022-01-18 22:30:30,215] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:30:30,218] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:31:33,394] {processor.py:163} INFO - Started process (PID=96136) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:31:33,395] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:31:33,395] {logging_mixin.py:109} INFO - [2022-01-18 22:31:33,395] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:31:33,418] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:31:33,427] {logging_mixin.py:109} INFO - [2022-01-18 22:31:33,427] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:31:33,432] {logging_mixin.py:109} INFO - [2022-01-18 22:31:33,431] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:31:33,435] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:32:32,396] {processor.py:163} INFO - Started process (PID=96187) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:32:32,397] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:32:32,397] {logging_mixin.py:109} INFO - [2022-01-18 22:32:32,397] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:32:32,420] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:32:32,429] {logging_mixin.py:109} INFO - [2022-01-18 22:32:32,429] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:32:32,433] {logging_mixin.py:109} INFO - [2022-01-18 22:32:32,433] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:32:32,437] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 22:33:35,918] {processor.py:163} INFO - Started process (PID=96244) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:33:35,919] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:33:35,920] {logging_mixin.py:109} INFO - [2022-01-18 22:33:35,920] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:33:35,943] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:33:35,952] {logging_mixin.py:109} INFO - [2022-01-18 22:33:35,952] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:33:35,957] {logging_mixin.py:109} INFO - [2022-01-18 22:33:35,957] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:33:35,960] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:34:38,953] {processor.py:163} INFO - Started process (PID=96297) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:34:38,954] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:34:38,954] {logging_mixin.py:109} INFO - [2022-01-18 22:34:38,954] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:34:38,978] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:34:38,987] {logging_mixin.py:109} INFO - [2022-01-18 22:34:38,987] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:34:38,992] {logging_mixin.py:109} INFO - [2022-01-18 22:34:38,992] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:34:38,995] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:35:42,332] {processor.py:163} INFO - Started process (PID=96353) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:35:42,333] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:35:42,333] {logging_mixin.py:109} INFO - [2022-01-18 22:35:42,333] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:35:42,356] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:35:42,366] {logging_mixin.py:109} INFO - [2022-01-18 22:35:42,365] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:35:42,370] {logging_mixin.py:109} INFO - [2022-01-18 22:35:42,370] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:35:42,374] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 22:36:46,491] {processor.py:163} INFO - Started process (PID=96411) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:36:46,492] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:36:46,493] {logging_mixin.py:109} INFO - [2022-01-18 22:36:46,493] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:36:46,521] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:36:46,530] {logging_mixin.py:109} INFO - [2022-01-18 22:36:46,530] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:36:46,535] {logging_mixin.py:109} INFO - [2022-01-18 22:36:46,535] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:36:46,539] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.048 seconds
+[2022-01-18 22:37:50,482] {processor.py:163} INFO - Started process (PID=96465) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:37:50,483] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:37:50,483] {logging_mixin.py:109} INFO - [2022-01-18 22:37:50,483] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:37:50,512] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:37:50,521] {logging_mixin.py:109} INFO - [2022-01-18 22:37:50,521] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:37:50,526] {logging_mixin.py:109} INFO - [2022-01-18 22:37:50,526] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:37:50,529] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.048 seconds
+[2022-01-18 22:38:54,098] {processor.py:163} INFO - Started process (PID=96519) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:38:54,100] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:38:54,100] {logging_mixin.py:109} INFO - [2022-01-18 22:38:54,100] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:38:54,123] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:38:54,132] {logging_mixin.py:109} INFO - [2022-01-18 22:38:54,132] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:38:54,137] {logging_mixin.py:109} INFO - [2022-01-18 22:38:54,137] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:38:54,140] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 22:39:57,726] {processor.py:163} INFO - Started process (PID=96582) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:39:57,727] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:39:57,727] {logging_mixin.py:109} INFO - [2022-01-18 22:39:57,727] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:39:57,751] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:39:57,761] {logging_mixin.py:109} INFO - [2022-01-18 22:39:57,760] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:39:57,765] {logging_mixin.py:109} INFO - [2022-01-18 22:39:57,765] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:39:57,769] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.043 seconds
+[2022-01-18 22:41:00,956] {processor.py:163} INFO - Started process (PID=96644) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:41:00,957] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:41:00,957] {logging_mixin.py:109} INFO - [2022-01-18 22:41:00,957] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:41:00,980] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:41:00,989] {logging_mixin.py:109} INFO - [2022-01-18 22:41:00,989] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:41:00,994] {logging_mixin.py:109} INFO - [2022-01-18 22:41:00,994] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:41:00,997] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:42:01,282] {processor.py:163} INFO - Started process (PID=96700) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:42:01,283] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:42:01,284] {logging_mixin.py:109} INFO - [2022-01-18 22:42:01,284] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:42:01,307] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:42:01,316] {logging_mixin.py:109} INFO - [2022-01-18 22:42:01,316] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:42:01,321] {logging_mixin.py:109} INFO - [2022-01-18 22:42:01,321] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:42:01,324] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:43:03,780] {processor.py:163} INFO - Started process (PID=96751) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:43:03,781] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:43:03,782] {logging_mixin.py:109} INFO - [2022-01-18 22:43:03,782] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:43:03,804] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:43:03,813] {logging_mixin.py:109} INFO - [2022-01-18 22:43:03,813] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:43:03,818] {logging_mixin.py:109} INFO - [2022-01-18 22:43:03,818] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:43:03,821] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 22:44:06,350] {processor.py:163} INFO - Started process (PID=96806) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:44:06,351] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:44:06,351] {logging_mixin.py:109} INFO - [2022-01-18 22:44:06,351] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:44:06,375] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:44:06,383] {logging_mixin.py:109} INFO - [2022-01-18 22:44:06,383] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:44:06,388] {logging_mixin.py:109} INFO - [2022-01-18 22:44:06,388] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:44:06,391] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:45:05,380] {processor.py:163} INFO - Started process (PID=96859) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:45:05,382] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:45:05,382] {logging_mixin.py:109} INFO - [2022-01-18 22:45:05,382] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:45:05,405] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:45:05,414] {logging_mixin.py:109} INFO - [2022-01-18 22:45:05,414] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:45:05,419] {logging_mixin.py:109} INFO - [2022-01-18 22:45:05,419] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:45:05,422] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:46:08,622] {processor.py:163} INFO - Started process (PID=96930) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:46:08,624] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:46:08,624] {logging_mixin.py:109} INFO - [2022-01-18 22:46:08,624] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:46:08,650] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:46:08,659] {logging_mixin.py:109} INFO - [2022-01-18 22:46:08,659] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:46:08,665] {logging_mixin.py:109} INFO - [2022-01-18 22:46:08,665] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:46:08,669] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.047 seconds
+[2022-01-18 22:47:11,589] {processor.py:163} INFO - Started process (PID=96990) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:47:11,590] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:47:11,590] {logging_mixin.py:109} INFO - [2022-01-18 22:47:11,590] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:47:11,614] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:47:11,622] {logging_mixin.py:109} INFO - [2022-01-18 22:47:11,622] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:47:11,627] {logging_mixin.py:109} INFO - [2022-01-18 22:47:11,627] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:47:11,630] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:48:14,915] {processor.py:163} INFO - Started process (PID=97052) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:48:14,916] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:48:14,916] {logging_mixin.py:109} INFO - [2022-01-18 22:48:14,916] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:48:14,939] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:48:14,948] {logging_mixin.py:109} INFO - [2022-01-18 22:48:14,948] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:48:14,953] {logging_mixin.py:109} INFO - [2022-01-18 22:48:14,953] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:48:14,956] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds
+[2022-01-18 22:49:18,128] {processor.py:163} INFO - Started process (PID=97112) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:49:18,129] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:49:18,129] {logging_mixin.py:109} INFO - [2022-01-18 22:49:18,129] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:49:18,156] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:49:18,166] {logging_mixin.py:109} INFO - [2022-01-18 22:49:18,165] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:49:18,172] {logging_mixin.py:109} INFO - [2022-01-18 22:49:18,172] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:49:18,176] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.048 seconds
+[2022-01-18 22:50:22,909] {processor.py:163} INFO - Started process (PID=97321) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:50:22,910] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:50:22,910] {logging_mixin.py:109} INFO - [2022-01-18 22:50:22,910] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:50:22,933] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:50:22,942] {logging_mixin.py:109} INFO - [2022-01-18 22:50:22,942] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:50:22,947] {logging_mixin.py:109} INFO - [2022-01-18 22:50:22,947] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:50:22,950] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 22:51:25,825] {processor.py:163} INFO - Started process (PID=97395) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:51:25,826] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:51:25,826] {logging_mixin.py:109} INFO - [2022-01-18 22:51:25,826] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:51:25,849] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:51:25,858] {logging_mixin.py:109} INFO - [2022-01-18 22:51:25,858] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:51:25,863] {logging_mixin.py:109} INFO - [2022-01-18 22:51:25,863] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:51:25,866] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.041 seconds
+[2022-01-18 22:52:29,393] {processor.py:163} INFO - Started process (PID=97526) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:52:29,394] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:52:29,394] {logging_mixin.py:109} INFO - [2022-01-18 22:52:29,394] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:52:29,420] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:52:29,429] {logging_mixin.py:109} INFO - [2022-01-18 22:52:29,429] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:52:29,434] {logging_mixin.py:109} INFO - [2022-01-18 22:52:29,434] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:52:29,437] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.045 seconds
+[2022-01-18 22:53:33,138] {processor.py:163} INFO - Started process (PID=97701) to work on /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:53:33,139] {processor.py:642} INFO - Processing file /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py for tasks to queue
+[2022-01-18 22:53:33,139] {logging_mixin.py:109} INFO - [2022-01-18 22:53:33,139] {dagbag.py:500} INFO - Filling up the DagBag from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:53:33,162] {processor.py:654} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py
+[2022-01-18 22:53:33,171] {logging_mixin.py:109} INFO - [2022-01-18 22:53:33,171] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-18 22:53:33,176] {logging_mixin.py:109} INFO - [2022-01-18 22:53:33,176] {dag.py:2935} INFO - Setting next_dagrun for hello_world to 2022-01-18T06:00:00+00:00
+[2022-01-18 22:53:33,180] {processor.py:171} INFO - Processing /Users/hyundong/workspace/MLOPS/airflow/dags/hello_world.py took 0.042 seconds

@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "practice-airflow"
+version = "0.1.0"
+description = "practice-airflow"
+authors = ["JODONG2 <whgusehd96@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8.7"
+virtualenv = "^20.13.0"
+
+[tool.poetry.dev-dependencies]
+apache-airflow = "^2.2.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
